@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(198, 195, 195);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+.base-center{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+.foto{
+    margin: 50px 0 10px 0;
+    width: 15%;
+    height: 15%;
+    border: 3px solid white;
+    box-shadow: 4px 4px 4px 4px white;
+    border-radius: 10% 30% 10% 30%;
+}
+
+h1{
+    color: rgb(35, 35, 35);
+    margin-bottom: 0px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+
+h2{
+    color: rgb(54, 54, 54);
+    margin-top: 1px;
+    font-style: italic;
+    letter-spacing: -1px;
+    margin-left: 10px;
+}
+
+div a{
+    text-decoration: none;
+}
+
+div a img {
+    width: 20px;
+    margin: 20px 10px;
+}
+
+.out {;
+    width: 550px;
+    margin: 0 auto;
+}
+
+.out p {
+    margin-top: 20px;
+}
+
+.skills {
+    color: black;
+    margin-top: 30px;
+}
+
+ul li {
+    font-style: bolder;
+    font-weight: 600;
+}
+
+.email {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.page {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 3px solid rgb(78, 77, 77);
+    box-shadow: 0px 0px 0px 4px rgb(2, 2, 2);
+}
